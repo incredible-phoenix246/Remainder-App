@@ -45,9 +45,11 @@ Before you begin, ensure you have the following installed:
 
 2. Navigate to the project folder:
 
+    ```
     cd schedule-reminder
+    ```
 
-3. Create a configuration file named config.py with your Twilio credentials and phone numbers:
+3.  Edit the configuration file named config.py with your Twilio credentials and phone numbers:
     
     ```
     config.py
